@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jabin Binnendyk"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jabin Binnendyk"
 description              : &description "Social and Cognitive Psychologist"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jabin Binnendyk"
-  avatar           : "bio-photo-2"
+  avatar           : "profile.png"
   bio              : "Social/Cognitive Psychologist"
   location         : "Regina, Sk., Canada"
   education        : "Cornell University"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Jabinnendyk"
+  github           : "Jabinnendyk"
   google_plus      :
   keybase          :
   instagram        :
