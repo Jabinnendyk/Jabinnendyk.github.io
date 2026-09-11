@@ -23,7 +23,7 @@ repository               : "Jabinnendyk/Jabinnendyk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Jabin Binnendyk"
   pronouns         : # example: "she/her"  
   bio              : "Social/Cognitive Psychologist"
