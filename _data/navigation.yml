@@ -4,11 +4,8 @@ main:
   - title: "Published Work"
     url: /publications/
 
- -  title: "Working Papers"
-    url: /workingpapers/
-
   - title: "Resources"
-    url: /resources/        
+    url: /portfolio/        
     
   - title: "CV"
     url: /cv/
