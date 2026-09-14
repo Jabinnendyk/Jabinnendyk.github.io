@@ -35,7 +35,7 @@ Generally speaking, my research examines miscalibration—how accurately people 
 **Binnendyk, J.**, & Pennycook, G. (2024). <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2CC80B7DBFBF152F19356F337F0A2AF/S1930297524000226a.pdf/individual-differences-in-overconfidence-a-new-measurement-approach.pdf" target="_blank" rel="noopener noreferrer">Individual differences in overconfidence: A new measurement approach.</a> *Judgment and Decision Making*
 
 
-* We challenge traditional methods for measuring overconfidence and propose a novel approach called the Generalized Overconfidence Task (<a href="https://github.com/Jabinnendyk/GOT" target="_blank" rel="noopener noreferrer">GOT</a>). The GOT addresses a key limitation of traditional measures: estimates of overconfidence can be confounded with differences in ability. Using this approach, we demonstrate that individual differences in overconfidence emerge once you account for_*
+* We challenge traditional methods for measuring overconfidence and propose a novel approach called the Generalized Overconfidence Task (<a href="https://github.com/Jabinnendyk/GOT" target="_blank" rel="noopener noreferrer">GOT</a>). The GOT addresses a key limitation of traditional measures: estimates of overconfidence are confounded with differences in ability. Using this approach, we demonstrate that individual differences in overconfidence emerge once you account for differences in ability.*
 
 
 
