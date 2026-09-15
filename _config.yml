@@ -227,6 +227,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  working_papers:
+    output: false
   portfolio:
     output: true
     permalink: /:collection/:path/
