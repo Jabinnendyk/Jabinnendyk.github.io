@@ -42,3 +42,20 @@ Generally speaking, my research examines miscalibration—how accurately people 
 A complete list of my publications can be found <a href="https://jabinbinnendyk.com/publications/" target="_blank" rel="noopener noreferrer">here</a>.
 
 ---
+
+**Fun Facts**
+
+🦖 I was born in Drumheller, Alberta—home of dinosaurs.
+
+🥋 I train Brazilian jiu-jitsu and am currently a blue belt.
+
+🎲 I enjoy all sorts of board games and am an avid Heroclix player.
+
+🧿 I am learning to speak Turkish-- Neden? Çünkü eşim Türk ve Türk kültürü çok güzel.
+
+--- 
+
+**Currently Reading**
+
+<a href="https://mattdinniman.com/books/" target="_blank" rel="noopener noreferrer">Dungeon Crawler Carl: The Butcher's Masquerade</a>
+
