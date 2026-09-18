@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my page!**
+<h1>Welcome to my page!</h1>
 
-My name is Jabin Binnendyk, and I am currently completing my PhD at Cornell University under <a href="https://gordonpennycook.com/" target="_blank" rel="noopener noreferrer">Gordon Pennycook</a>. I anticipate completing my PhD in April 2027 and will be on the academic job market starting in May 2027!
+My name is Jabin Binnendyk, and I am currently completing my PhD at Cornell University under the supervision of <a href="https://gordonpennycook.com/" target="_blank" rel="noopener noreferrer">Gordon Pennycook</a>. I anticipate completing my PhD in April 2027 and will be on the academic job market starting in May 2027!
 
 
 
@@ -20,6 +20,8 @@ This website contains information about my academic work, research, and life out
 **Research interests**: Overconfidence, Metacognition, Judgment and decision making, Calibration, Self-censorship, Social influence, Social cognition, Collective judgment, 
 
 Generally speaking, my research examines miscalibration—how accurately people understand themselves and their social worlds—and how these perceptions shape their judgments, decisions, and social interactions.
+
+These interests have led me to research overconfidence and self-censorship, two phenomena that illustrate these misperceptions.
 
 ---
 
@@ -47,7 +49,7 @@ A complete list of my publications can be found <a href="https://jabinbinnendyk.
 
 🦖 I was born in Drumheller, Alberta—home of dinosaurs.
 
-🥋 I train Brazilian jiu-jitsu and am currently a blue belt.
+🥋 I train Brazilian jiu-jitsu (blue belt).
 
 🎲 I enjoy all sorts of board games and am an avid Heroclix player.
 
@@ -55,7 +57,7 @@ A complete list of my publications can be found <a href="https://jabinbinnendyk.
 
 --- 
 
-**Currently Reading**
+**Book I am Currently Reading**
 
 <a href="https://mattdinniman.com/books/" target="_blank" rel="noopener noreferrer">Dungeon Crawler Carl: The Butcher's Masquerade</a>
 

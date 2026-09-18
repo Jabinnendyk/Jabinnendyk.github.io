@@ -6,13 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<iframe
+  src="https://docs.google.com/document/d/1U0RlAKiCtrTevq2t8eBKqgTPpv6pejnp/preview"
+  width="100%"
+  height="1000px"
+  style="border: none;">
+</iframe>
 
-{% include base_path %}
-
-Education
-======
-* B.A. Psychology, University of Calgary (RDC Collaborative Program), 2019
-* M.S. Psychology, University of Regina, 2022
-* Ph.D Psychology, Cornell University, 2027 (expected)
-
-[INSERT LINK TO CV for download here]
