@@ -34,7 +34,7 @@ These interests have led me to research overconfidence and self-censorship, two 
 
 *This paper received the Significant Paper Award: Cornell University Department of Psychology.*
 
-**Binnendyk, J.**, & Pennycook, G. (2024). <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2CC80B7DBFBF152F19356F337F0A2AF/S1930297524000226a.pdf/individual-differences-in-overconfidence-a-new-measurement-approach.pdf" target="_blank" rel="noopener noreferrer">Individual differences in overconfidence: A new measurement approach.</a> *Judgment and Decision Making*
+**Binnendyk, J.**, & Pennycook, G. (2024). <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/individual-differences-in-overconfidence-a-new-measurement-approach/D2CC80B7DBFBF152F19356F337F0A2AF" target="_blank" rel="noopener noreferrer">Individual differences in overconfidence: A new measurement approach.</a> *Judgment and Decision Making*
 
 
 * We challenge traditional methods for measuring overconfidence and propose a novel approach called the Generalized Overconfidence Task (<a href="https://github.com/Jabinnendyk/GOT" target="_blank" rel="noopener noreferrer">GOT</a>). The GOT addresses a key limitation of traditional measures: estimates of overconfidence are confounded with differences in ability. Using this approach, we demonstrate that individual differences in overconfidence emerge once you account for differences in ability.*
